@@ -1,3 +1,5 @@
+STEAM (2023-12)
+<br/>
 Velikost 1MB https://github.com/hornster02/Clive_Barkers_Jericho-CZ/raw/main/cz.rar
 
 Postup
@@ -5,9 +7,9 @@ Postup
 -nakopírovat do hry a spustit "pocesti.bat"
 <br/>
 <br/>
-Obsahuje SRT titulky k předrenderovaným videím - s upravenou "binkw32.dll" knihovnou (BikMod v0.3e) by mělo/mohlo jít zobrazení titulků vynutit. Další možnost je přehrání videí mimo hru. Jinak je to stejná CZ jako tato o velikosti 500MB
-<br/>
-https://www.folkemonovycestiny.cz/clive-bakers-jericho/
+Obsahuje SRT titulky k předrenderovaným videím - s upravenou "binkw32.dll" knihovnou (BikMod v0.3e) by mělo/mohlo jít zobrazení titulků vynutit. Další možnost je přehrání videí mimo hru
+
+Další verze CZ. Velikost 500MB https://www.folkemonovycestiny.cz/clive-bakers-jericho/
 <br/>
 <br/>
 game.cfg tweaky
